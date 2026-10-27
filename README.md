@@ -1,1 +1,1 @@
-Holberton School Shell Project - Basics
+Holberton School - Shell Basics Project
