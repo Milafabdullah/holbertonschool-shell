@@ -3,3 +3,4 @@
 - 0-alias: creates an alias named ls with the value rm -f *
 - 3-paths
 - 4-global_variables: lists the environment variables
+- 5-local_variables: lists all local variables, environment variables and functions
