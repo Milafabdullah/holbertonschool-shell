@@ -7,3 +7,4 @@
 - 6-create_local_variable: creates a local variable named BEST with the value School
 - 7-create_global_variable: creates a global variable named BEST with the value School
 - 13-print_float: prints the number in NUM with two decimal places
+- 14-decimal_to_hexadecimal: converts the number in DECIMAL from base 10 to base 16
